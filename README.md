@@ -1,4 +1,4 @@
-# UK Time API
+# UK Time API - CHATBOT
 
 A simple AWS Lambda function that returns the current UK time with timezone information.
 
